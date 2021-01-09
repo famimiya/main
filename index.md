@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# パラ水泳 宮崎哲(MIYAZAKI Satoru)ウェブサイト
+## Para-swimming; MIYAZAKI Satoru
+**宮崎哲（みやざきさとる）は、自己ベストを更新し、国際大会でのレースを目指しています。**
 
-You can use the [editor on GitHub](https://github.com/famimiya/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+所属: [あいおいニッセイ同和損害保険株式会社](http://www.challenge-support.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+twitter: [@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI) 
 
-### Markdown
+### お知らせ：更新情報
+宮崎哲（みやざきさとる）のレースの結果や活動の一部をお伝えします。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- _2021-01-01_
+あけましておめでとうございます。
+![https://twitter.com/Satoru_MIYAZAKI/status/1344669832998866949?s=20](https://twitter.com/Satoru_MIYAZAKI/status/1344669832998866949?s=20)
+
+### プロフィール
+
+### 競技活動の記録
+
+### データベース：
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+coming soon
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/famimiya/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
