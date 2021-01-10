@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # パラ水泳 
 # 宮崎哲ウェブサイト
 ## Para-swimming; MIYAZAKI Satoru
@@ -37,7 +41,7 @@ coming soon
 
 * * *
 
-### データベース：
+### データベース
 
 ```markdown
 coming soon
