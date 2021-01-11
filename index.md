@@ -14,10 +14,10 @@ twitter: [@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI)
 * * *
 
 ### メニュー
-[お知らせ](./log.html)
-[プロフィール](./about.html)
-[競技活動の記録](./news.html)
-[リンク](./link.html)
+*   [お知らせ](./log.html)  
+*   [プロフィール](./about.html)  
+*   [競技活動の記録](./news.html)  
+*   [リンク](./link.html)  
 
 * * *
 
