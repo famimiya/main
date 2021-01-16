@@ -5,7 +5,7 @@ layout: default
 ## リンク
 
 ### 所属先
-*   あいおいニッセイ同和損害保険株式会社(http://www.challenge-support.com/)  
+*   [あいおいニッセイ同和損害保険株式会社](http://www.challenge-support.com/)  
 
 ### Special Thanks
 *   [FURANO NATULUX HOTEL 富良野ナチュラクスホテル](http://www.natulux.com/) (2010年4月～)  
