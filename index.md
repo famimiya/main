@@ -21,31 +21,36 @@ twitter: [@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI)
 
 * * *
 
-### お知らせ
+###  [お知らせ](./log.html)
 宮崎哲（みやざきさとる）のレースの結果や活動の一部をお伝えします。
 
 *   _2021-01-01_
 
-あけましておめでとうございます。
+あけましておめでとうございます。  
 
-![image](https://twitter.com/Satoru_MIYAZAKI/status/1344669832998866949?s=20)
-
+ [お知らせ](./log.html)    
+ 
 * * *
 
-### プロフィール
+### [プロフィール](./about.html)  
 ![image](https://www.paralympic.org/sites/default/files/styles/image_crop_1_1_200x200_/public/athlete_sdms_image/8678-Satoru%20Miyazaki%20photo.jpg?itok=spjWAuCO)
 
 *   北海道出身
 *   [日本知的障害者水泳連盟](https://jsfpid.com/)強化指定選手
-*   [English: https://www.paralympic.org/satoru-miyazaki](https://www.paralympic.org/satoru-miyazaki)
+*   [English: https://www.paralympic.org/satoru-miyazaki](https://www.paralympic.org/satoru-miyazaki)  
+
+
+[プロフィール](./about.html)   
 
 * * *
 
-### 競技活動の記録
+### [競技活動の記録](./news.html)  
 
 ```markdown
 coming soon
 ```
+
+[競技活動の記録](./news.html)  
 
 * * *
 
@@ -54,3 +59,15 @@ coming soon
 ```markdown
 coming soon
 ```
+
+* * *
+
+### [リンク](./link.html)  
+
+所属  
+[あいおいニッセイ同和損害保険株式会社](http://www.challenge-support.com/)  
+
+twitter  
+[@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI)   
+
+[リンク](./link.html)  
