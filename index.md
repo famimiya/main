@@ -21,8 +21,7 @@ twitter: [@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI)
 
 * * *
 
-###  [お知らせ](./log.html)
-宮崎哲（みやざきさとる）のレースの結果や活動の一部をお伝えします。
+###  [お知らせ](./log.html)  
 
 ####  2021-01-16
 >  本サイトは、宮崎哲のレースの結果や活動の一部をお伝えします。  
