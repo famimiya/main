@@ -2,31 +2,12 @@
 layout: default
 ---
 
-# パラ水泳 
-# 宮崎哲ウェブサイト
-## Para-swimming; MIYAZAKI Satoru
-宮崎哲（みやざきさとる）は、自己ベストを更新し、国際大会でのレースを目指しています。
-
-所属: [あいおいニッセイ同和損害保険株式会社](http://www.challenge-support.com/)
-
-twitter: [@Satoru_MIYAZAKI](https://twitter.com/Satoru_MIYAZAKI) 
-
-* * *
-
-### メニュー
-*   [お知らせ](./log.html)  
-*   [プロフィール](./about.html)  
-*   [競技活動の記録](./news.html)  
-*   [リンク](./link.html)  
-
-* * *
-
 ###  [お知らせ](./log.html)  
 
-####  2021-01-16
->  本サイトは、宮崎哲のレースの結果や活動の一部をお伝えします。  
+####  2021-03-06
+>  今日から第37回日本パラ水泳選手権大会です。  
 
- [お知らせはこちら](./log.html)    
+[お知らせはこちら](./log.html)    
  
 * * *
 
