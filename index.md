@@ -12,7 +12,6 @@ layout: default
 * * *
 
 ### [プロフィール](./about.html)  
-![image](https://www.paralympic.org/sites/default/files/styles/image_crop_1_1_200x200_/public/athlete_sdms_image/8678-Satoru%20Miyazaki%20photo.jpg?itok=spjWAuCO)
         
 *   所属 [あいおいニッセイ同和損害保険株式会社](http://www.challenge-support.com/)
 *   北海道出身
