@@ -31,7 +31,7 @@ layout: default
 
 ### データベース
 
->  [データベース デモ版](https://famimiya.shinyapps.io/demo/)  
+>  [データベース デモ版 はこちら](https://famimiya.shinyapps.io/demo/)  
 >  
 >  ![image](./demo_.png)  
 > 
