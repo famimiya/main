@@ -2,7 +2,9 @@
 layout: default
 ---
 
+
 ### [お知らせ](./log.html)  
+
 
 ####  2021-03-06
 >  今日から第37回日本パラ水泳選手権大会です。  
@@ -28,7 +30,7 @@ layout: default
 
 * * *
 
-### データベース
+### [データベース](https://famimiya.shinyapps.io/demo/)  
 
 >  [データベース デモ版 はこちら](https://famimiya.shinyapps.io/demo/)  
 >  
