@@ -33,9 +33,8 @@ layout: default
 
 >  [データベース デモ版](https://famimiya.shinyapps.io/demo/)  
 >  
->  ▼サンプル画像
->  ![image](./demo_.png)
+>  ![image](./demo_.png)  
 > 
->  期間: 2019-03-03 - 2021-03-07
+>  期間: 2019-03-03 - 2021-03-07  
 >  
 
